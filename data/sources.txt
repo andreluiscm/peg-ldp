@@ -1,0 +1,6 @@
+DBLP
+https://arxiv.org/pdf/1612.09435.pdf
+https://github.com/supriya-gdptl/HCODA/tree/master/data
+
+Pierre Auger, Netscience, and Yeast Landscape
+https://manliodedomenico.com/data.php
